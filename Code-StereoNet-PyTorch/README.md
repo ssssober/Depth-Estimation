@@ -1,6 +1,9 @@
 # StereoNet-pytorch
 > This work only provides the source code implementation of the paper **[StereoNet:Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction(ECCV2018)](https://www.researchgate.net/publication/326495585_StereoNet_Guided_Hierarchical_Refinement_for_Real-Time_Edge-Aware_Depth_Prediction)** using pytorch. Basically followed the algorithm structure of the original paper, because of the limited ability of myself. I suggest you'd better not use `edge_refinement`, if you do experiments on speckle images.
  
+## Data-Type
+(1)speckled images
+(2)stereo or structured light images
 
 ## Dependencies
 + PyTorch (0.4.0+)
