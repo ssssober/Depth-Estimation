@@ -2,8 +2,11 @@
 > The experiments were conducted on speckle dataset. Especially, this work mainly were experimented on the [primesense](https://github.com/TheDetial/Make-Your-Active-Data) dataset.
 
 ## Data preparation
-The details please refer to [Make-Your-Active-Data](https://github.com/TheDetial/Make-Your-Active-Data).
+The details please refer to [Make-Your-Active-Data](https://github.com/TheDetial/Make-Your-Active-Data).  
 
+## Data-Type
+(1)speckled images  
+(2)stereo or structured light images
 
 ## Table of Contents
 - [datasets](#datasets) 
