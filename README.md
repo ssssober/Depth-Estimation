@@ -72,7 +72,7 @@
 35.**[Learning to Adapt for Stereo(cvpr2019)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tonioni_Learning_to_Adapt_for_Stereo_CVPR_2019_paper.pdf)**  
 36.**[Unsupervised Cross-Spectral Stereo Matching by Learning to Synthesize(AAAI2019)](https://www.researchgate.net/publication/335266094_Unsupervised_Cross-Spectral_Stereo_Matching_by_Learning_to_Synthesize)**  
 37.**[Semantic Stereo Matching with Pyramid Cost Volumes(ICCV2019)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Semantic_Stereo_Matching_With_Pyramid_Cost_Volumes_ICCV_2019_paper.pdf)**  
-38.**[SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation(ICRA2019)(https://arxiv.org/pdf/1810.01849.pdf)]**
+38.**[SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](ICRA2019)(https://arxiv.org/pdf/1810.01849.pdf)**
 ## 2020  
 1.**[AcfNet：Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching(AAAI2020)](https://arxiv.org/pdf/1909.03751.pdf)**  
 2.**[Du2Net： Learning Depth Estimation from Dual-Cameras and Dual-Pixels](https://deepai.org/publication/du-2net-learning-depth-estimation-from-dual-cameras-and-dual-pixels)**  
@@ -87,5 +87,4 @@
 11.**[3D Packing for Self-Supervised Monocular Depth Estimation(2020cvproral)](https://128.84.21.199/abs/1905.02693v4)**  
 12.**[MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask(cvpr2020oral)](https://arxiv.org/pdf/2003.10955.pdf)**  
 13.**[A Survey on Deep Learning Techniques for Stereo-based Depth Estimation(arxiv2020)](https://arxiv.org/pdf/2006.02535.pdf)**  
-14.**[Self-Supervised Monocular Depth Estimation:  Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://www.researchgate.net/publication/342944640_Self-Supervised_Monocular_Depth_Estimation_Solving_the_Dynamic_Object_Problem_by_Semantic_Guidance)**  
-15.
+14.**[Self-Supervised Monocular Depth Estimation:  Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://www.researchgate.net/publication/342944640_Self-Supervised_Monocular_Depth_Estimation_Solving_the_Dynamic_Object_Problem_by_Semantic_Guidance)**
