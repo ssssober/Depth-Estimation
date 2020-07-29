@@ -93,7 +93,7 @@
 ## Occlusion Handling  
 
 1. **[Symmetric Stereo Matching for Occlusion Handling(cvpr2005)](https://www.researchgate.net/publication/221364811_Symmetric_Stereo_Matching_for_Occlusion_Handling)**  
-2. **[A Fast Dense Stereo Matching Algorithm with an Application to 3D Occupancy Mapping using Quadrocopters(ICAR2015)](https://ieeexplore.ieee.org/document/7251515)**  
+2. **[A Fast Dense Stereo Matching Algorithm with an Application to 3D Occupancy Mapping using Quadrocopters(ICRA2015)](https://ieeexplore.ieee.org/document/7251515)**  
 3. **[Determining occlusions from space and time image reconstructions(cvpr2016)](https://hal.archives-ouvertes.fr/hal-01307703/file/occlusions_cvpr2016.pdf)**  
 4. **[Occlusion and Error Detection for Stereo Matching and Hole Filling Using Dynamic Programming(sist2016)](https://www.semanticscholar.org/paper/Occlusion-and-Error-Detection-for-Stereo-Matching-Baek-Ho/31a473ca8b5a3e20b7b91575d9a25591d74438a2)**  
 5. **[Determining occlusions from space and time image reconstructions(ICIP2017)](https://hal.archives-ouvertes.fr/hal-01307703)**  
