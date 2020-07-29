@@ -2,6 +2,7 @@
 > We will focus on how to do depth estimation using deep learning and traditional stereo matching methods. 
 
 ## CNN Paper Collection
+## Depth Estimation
 ## 2015
 1.**[FlowNet：Learning Optical Flow with Convolutional Networks(ICCV2015)](https://lmb.informatik.uni-freiburg.de/Publications/2015/DFIB15/)**  
 2.**[Computing the Stereo Matching Cost with a Convolutional Neural Network(cvpr2015)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)**  
@@ -88,3 +89,18 @@
 12.**[MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask(cvpr2020oral)](https://arxiv.org/pdf/2003.10955.pdf)**  
 13.**[A Survey on Deep Learning Techniques for Stereo-based Depth Estimation(arxiv2020)](https://arxiv.org/pdf/2006.02535.pdf)**  
 14.**[Self-Supervised Monocular Depth Estimation:  Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://www.researchgate.net/publication/342944640_Self-Supervised_Monocular_Depth_Estimation_Solving_the_Dynamic_Object_Problem_by_Semantic_Guidance)**
+
+## Occlusion Handling  
+1. **[A Fast Dense Stereo Matching Algorithm with an Application to 3D Occupancy Mapping using Quadrocopters(ICAR2015)]**  
+2. **[Symmetric Stereo Matching for Occlusion Handling(cvpr2015)]**  
+3. **[Determining occlusions from space and time image reconstructions(cvpr2016)]**  
+4. **[Occlusion and Error Detection for Stereo Matching and Hole Filling Using Dynamic Programming(sist2016）]**  
+5. **[Determining occlusions from space and time image reconstructions（ICIP2017）]**  
+6. **[Occlusion Aware Unsupervised Learning of Optical Flow(cvpr2018)]**  
+7. **[Occlusions, motion and depth boundaries with a generic network for disparity, optical flow or scene flow estimation(ECCV2018)]**  
+8. **[One-view occlusion detection for stereo matching with a fully connected CRF model (TIP2019)]**  
+9. **[PWOC-3D：Deep Occlusion-Aware End-to-End Scene Flow Estimation(arxiv2019)]**  
+10. **[Segment-Based Disparity Refinement With Occlusion Handling for Stereo Matching(TIP2019)]**  
+11. **[SelFlow： Self-Supervised Learning of Optical Flow(cvpr2019)]**  
+12. **[StereoDRNet： Dilated Residual StereoNet(cvpr2019)]**
+
