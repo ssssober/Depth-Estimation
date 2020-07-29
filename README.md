@@ -91,16 +91,17 @@
 14.**[Self-Supervised Monocular Depth Estimation:  Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://www.researchgate.net/publication/342944640_Self-Supervised_Monocular_Depth_Estimation_Solving_the_Dynamic_Object_Problem_by_Semantic_Guidance)**
 
 ## Occlusion Handling  
-1. **[A Fast Dense Stereo Matching Algorithm with an Application to 3D Occupancy Mapping using Quadrocopters(ICAR2015)]**  
-2. **[Symmetric Stereo Matching for Occlusion Handling(cvpr2015)]**  
-3. **[Determining occlusions from space and time image reconstructions(cvpr2016)]**  
-4. **[Occlusion and Error Detection for Stereo Matching and Hole Filling Using Dynamic Programming(sist2016）]**  
-5. **[Determining occlusions from space and time image reconstructions（ICIP2017）]**  
-6. **[Occlusion Aware Unsupervised Learning of Optical Flow(cvpr2018)]**  
-7. **[Occlusions, motion and depth boundaries with a generic network for disparity, optical flow or scene flow estimation(ECCV2018)]**  
-8. **[One-view occlusion detection for stereo matching with a fully connected CRF model (TIP2019)]**  
-9. **[PWOC-3D：Deep Occlusion-Aware End-to-End Scene Flow Estimation(arxiv2019)]**  
-10. **[Segment-Based Disparity Refinement With Occlusion Handling for Stereo Matching(TIP2019)]**  
-11. **[SelFlow： Self-Supervised Learning of Optical Flow(cvpr2019)]**  
-12. **[StereoDRNet： Dilated Residual StereoNet(cvpr2019)]**
 
+1. **[Symmetric Stereo Matching for Occlusion Handling(cvpr2005)](https://www.researchgate.net/publication/221364811_Symmetric_Stereo_Matching_for_Occlusion_Handling)**  
+2. **[A Fast Dense Stereo Matching Algorithm with an Application to 3D Occupancy Mapping using Quadrocopters(ICAR2015)](https://ieeexplore.ieee.org/document/7251515)**  
+3. **[Determining occlusions from space and time image reconstructions(cvpr2016)](https://hal.archives-ouvertes.fr/hal-01307703/file/occlusions_cvpr2016.pdf)**  
+4. **[Occlusion and Error Detection for Stereo Matching and Hole Filling Using Dynamic Programming(sist2016)](https://www.semanticscholar.org/paper/Occlusion-and-Error-Detection-for-Stereo-Matching-Baek-Ho/31a473ca8b5a3e20b7b91575d9a25591d74438a2)**  
+5. **[Determining occlusions from space and time image reconstructions(ICIP2017)](https://hal.archives-ouvertes.fr/hal-01307703)**  
+6. **[Hide-and-Seek： Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization(ICCV2017)](https://arxiv.org/pdf/1704.04232.pdf)**  
+7. **[Occlusion Aware Unsupervised Learning of Optical Flow(cvpr2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf)**  
+8. **[Occlusions, motion and depth boundaries with a generic network for disparity, optical flow or scene flow estimation(ECCV2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf)**  
+9. **[One-view occlusion detection for stereo matching with a fully connected CRF model (TIP2019)](https://www.researchgate.net/publication/330376735_One-View_Occlusion_Detection_for_Stereo_Matching_with_a_Fully_Connected_CRF_Model)**  
+10. **[PWOC-3D：Deep Occlusion-Aware End-to-End Scene Flow Estimation(arxiv2019)](https://www.researchgate.net/publication/332371222_PWOC-3D_Deep_Occlusion-Aware_End-to-End_Scene_Flow_Estimation)**  
+11. **[Segment-Based Disparity Refinement With Occlusion Handling for Stereo Matching(TIP2019)](https://ieeexplore.ieee.org/document/8661596/)**  
+12. **[SelFlow： Self-Supervised Learning of Optical Flow(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_SelFlow_Self-Supervised_Learning_of_Optical_Flow_CVPR_2019_paper.pdf)**  
+13. **[StereoDRNet： Dilated Residual StereoNet(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chabra_StereoDRNet_Dilated_Residual_StereoNet_CVPR_2019_paper.pdf)**  
