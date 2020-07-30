@@ -109,3 +109,23 @@
 12. **[Segment-Based Disparity Refinement With Occlusion Handling for Stereo Matching(TIP2019)](https://ieeexplore.ieee.org/document/8661596/)**  
 13. **[SelFlow： Self-Supervised Learning of Optical Flow(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_SelFlow_Self-Supervised_Learning_of_Optical_Flow_CVPR_2019_paper.pdf)**  
 14. **[StereoDRNet： Dilated Residual StereoNet(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chabra_StereoDRNet_Dilated_Residual_StereoNet_CVPR_2019_paper.pdf)**  
+
+## Traditional Methods  
+## SGM  
+**[Stereo Processing by Semiglobal Matching and Mutual Information(TPAMI2008)](https://ieeexplore.ieee.org/document/4359315/)**  
+**[GPU optimization for the SGM stereo algorithms(ICCP2010)](https://ieeexplore.ieee.org/document/5606438)**  
+**[REAL-TIME DENSE STEREO MAPPING FOR MULTI-SENSOR NAVIGATION (2010)](https://core.ac.uk/display/30991361)**  
+**[Real-Time Stereo Vision System using Semi-Global Matching Disparity Estimation：Architecture and FPGA-Implementation(2010)](https://ieeexplore.ieee.org/document/5642077/)**  
+**[Semi-Global Matching – Motivation, Developments and Applications (2011)](https://www.academia.edu/16014919/Semi-Global_Matching_Motivation_Developments_and_Applications)**  
+**[Large Scale Semi-Global Matching on the CPU(2014)](http://www.mi.fu-berlin.de/inf/groups/ag-ki/publications/Semi-Global-Matching/Semi-Global-Matching.pdf)**  
+**[Embedded real-time stereo estimation via Semi-Global Matching on the GPU(iccs2016)](https://arxiv.org/pdf/1610.04121.pdf)**  
+**[GPU-Accelerated Real-Time Stereo Matching(2017)](http://publications.lib.chalmers.se/records/fulltext/249761/249761.pdf)**  
+**[SGM-Nets： Semi-global matching with neural networks(CVPR2017)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Seki_SGM-Nets_Semi-Global_Matching_CVPR_2017_paper.pdf)**  
+**[GPU-enhanced Multimodal Dense Matching(2018)](https://ieeexplore.ieee.org/document/8573526)**  
+**[Real-time CUDA-based stereo matching using cyclops2 algorithms(2018)](https://link.springer.com/article/10.1186/s13640-018-0253-2)**  
+**[FD_cudaSGM：Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Model-Based Estimations(3DV2019)](https://hal.archives-ouvertes.fr/hal-02326896)**  
+**[QUANTITATIVE COMPARISON BETWEEN NEURAL NETWORK- AND SGM-BASED STEREO MATCHING(2019)](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-1-W2/17/2019/)**  
+**[Half Resolution Semi-Global Stereo Matching](https://www.researchgate.net/publication/224244800_Half-resolution_semi-global_stereo_matching)**  
+**[MISGM-GPU：Mutual Information based Semi-Global Stereo Matching on the GPU](https://dl.acm.org/doi/10.1007/978-3-540-89639-5_22)**  
+**[Real-Time Semi-Global Matching Using CUDA Implementation](https://web.stanford.edu/class/cs231a/prev_projects_2016/semi_global_cs231.pdf)**  
+**[Real-Time Stereo Vision using Semi-Global Matching on Programmable Graphics Hardware](https://dl.acm.org/doi/10.1145/1179849.1179960)**  
