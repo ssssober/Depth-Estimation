@@ -92,7 +92,8 @@
 14.**[Self-Supervised Monocular Depth Estimation:  Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://www.researchgate.net/publication/342944640_Self-Supervised_Monocular_Depth_Estimation_Solving_the_Dynamic_Object_Problem_by_Semantic_Guidance)**  
 15. **[Self-supervised Object Motion and Depth Estimation from Video(CVPRW2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w60/Dai_Self-Supervised_Object_Motion_and_Depth_Estimation_From_Video_CVPRW_2020_paper.pdf)**  
 16. **[Improving Deep Stereo Network Generalization with Geometric Priors(arxiv2020-nvidia)](https://arxiv.org/abs/2008.11098)**  
-17. **[What Matters in Unsupervised Optical Flow(ECCV2020oral)](https://arxiv.org/pdf/2006.04902.pdf)**
+17. **[What Matters in Unsupervised Optical Flow(ECCV2020oral)](https://arxiv.org/pdf/2006.04902.pdf)**  
+18. **[DeepSFM: Structure From Motion Via Deep Bundle Adjustment(ECCV2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460222.pdf)**
 
 ## Occlusion Handling  
 
