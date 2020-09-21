@@ -96,7 +96,13 @@
 18. **[DeepSFM: Structure From Motion Via Deep Bundle Adjustment(ECCV2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460222.pdf)**  
 19. **[Calibrating Self-supervised Monocular Depth Estimation(arxiv2020)](https://arxiv.org/pdf/2009.07714.pdf)**  
 20. **[Cascade Network for Self-Supervised Monocular Depth Estimation(arxiv2020)](https://arxiv.org/pdf/2009.06223.pdf)**  
-21. **[PRAFlow RVC: Pyramid Recurrent All-Pairs Field Transforms for Optical Flow Estimation in Robust Vision Challenge 2020](https://arxiv.org/pdf/2009.06360.pdf)**
+21. **[PRAFlow RVC: Pyramid Recurrent All-Pairs Field Transforms for Optical Flow Estimation in Robust Vision Challenge 2020](https://arxiv.org/pdf/2009.06360.pdf)**  
+22. **[DESC：Domain Adaptation for Depth Estimation via Semantic Consistency(BMVC2020oral)](https://www.bmvc2020-conference.com/assets/papers/0122.pdf)**  
+23. **[Improving Monocular Depth Estimation by Leveraging Structural Awareness and Complementary Datasets(ECCV2020 Y-tech)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590086.pdf)**  
+24. **[CNN-Based Simultaneous Dehazing and Depth Estimation(ICRA2020)](http://www.cs.cmu.edu/~jeanoh/papers/LLOK-dehazing-ICRA2020.pdf)**  
+25. **[Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Pseudo%20RGB-D%20for%20Self-Improving%20Monocular%20SLAM%20and%20Depth%20Prediction.pdf)**  
+26. **[Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://arxiv.org/pdf/2007.06936.pdf)**  
+27. **[Consistent Video Depth Estimation(SIGGRAPH 2020)](https://arxiv.org/pdf/2004.15021.pdf)**  
 
 ## Occlusion Handling  
 
