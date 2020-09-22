@@ -34,7 +34,8 @@
 14.**[Sparse_Cost_Volume_for_Efficient_Stereo_Matching(2018)](https://www.researchgate.net/publication/329134120_Sparse_Cost_Volume_for_Efficient_Stereo_Matching)**  
 15.**[StereoNet:Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction(ECCV2018)](https://www.researchgate.net/publication/326495585_StereoNet_Guided_Hierarchical_Refinement_for_Real-Time_Edge-Aware_Depth_Prediction)**  
 16.**[Pyramid Stereo Matching Network(cvpr2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_Pyramid_Stereo_Matching_CVPR_2018_paper.pdf)**  
-17.**[Zoom and Learn： Generalizing Deep Stereo Matching to Novel Domains(cvpr2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)**
+17.**[Zoom and Learn： Generalizing Deep Stereo Matching to Novel Domains(cvpr2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)**  
+18.**[Megadepth: Learning single-view depth prediction from internet photos(CVPR2018)](https://research.cs.cornell.edu/megadepth/paper.pdf)**
 ## 2019  
 1.**[360SD-Net：360° Stereo Depth Estimation with Learnable Cost Volume(iccvw2019)](https://arxiv.org/abs/1911.04460?context=cs)**  
 2.**[AnyNet：Anytime Stereo Image Depth Estimation on Mobile Devices(ICRA2019)](https://mileyan.github.io/AnyNet/)**  
@@ -75,6 +76,7 @@
 37.**[Semantic Stereo Matching with Pyramid Cost Volumes(ICCV2019)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Semantic_Stereo_Matching_With_Pyramid_Cost_Volumes_ICCV_2019_paper.pdf)**  
 38.**[SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](ICRA2019)(https://arxiv.org/pdf/1810.01849.pdf)**  
 39.**[DSNet： Joint Learning for Scene Segmentation and Disparity Estimation(ICRA2019)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793573)**  
+40.**[Mannequin：Learning the Depths of Moving People by Watching Frozen People(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)**
 ## 2020  
 1.**[AcfNet：Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching(AAAI2020)](https://arxiv.org/pdf/1909.03751.pdf)**  
 2.**[Du2Net： Learning Depth Estimation from Dual-Cameras and Dual-Pixels](https://deepai.org/publication/du-2net-learning-depth-estimation-from-dual-cameras-and-dual-pixels)**  
@@ -103,6 +105,7 @@
 25. **[Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Pseudo%20RGB-D%20for%20Self-Improving%20Monocular%20SLAM%20and%20Depth%20Prediction.pdf)**  
 26. **[Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://arxiv.org/pdf/2007.06936.pdf)**  
 27. **[Consistent Video Depth Estimation(SIGGRAPH 2020)](https://arxiv.org/pdf/2004.15021.pdf)**  
+28. **[MiDaS-v2：Towards Robust Monocular Depth Estimation Mixing Datasets for Zero-Shot Cross-Dataset Transfer(TPAMI2020)](https://www.researchgate.net/publication/334191657_Towards_Robust_Monocular_Depth_Estimation_Mixing_Datasets_for_Zero-Shot_Cross-Dataset_Transfer)**
 
 ## Occlusion Handling  
 
