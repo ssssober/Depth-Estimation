@@ -105,7 +105,8 @@
 25. **[Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](http://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Pseudo%20RGB-D%20for%20Self-Improving%20Monocular%20SLAM%20and%20Depth%20Prediction.pdf)**  
 26. **[Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://arxiv.org/pdf/2007.06936.pdf)**  
 27. **[Consistent Video Depth Estimation(SIGGRAPH 2020)](https://arxiv.org/pdf/2004.15021.pdf)**  
-28. **[MiDaS-v2：Towards Robust Monocular Depth Estimation Mixing Datasets for Zero-Shot Cross-Dataset Transfer(TPAMI2020)](https://www.researchgate.net/publication/334191657_Towards_Robust_Monocular_Depth_Estimation_Mixing_Datasets_for_Zero-Shot_Cross-Dataset_Transfer)**
+28. **[MiDaS-v2：Towards Robust Monocular Depth Estimation Mixing Datasets for Zero-Shot Cross-Dataset Transfer(TPAMI2020)](https://www.researchgate.net/publication/334191657_Towards_Robust_Monocular_Depth_Estimation_Mixing_Datasets_for_Zero-Shot_Cross-Dataset_Transfer)**  
+29. **[Flow2Stereo： Effective Self-Supervised Learning of Optical Flow and Stereo Matching(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Flow2Stereo_Effective_Self-Supervised_Learning_of_Optical_Flow_and_Stereo_Matching_CVPR_2020_paper.pdf)**
 
 ## Occlusion Handling  
 
