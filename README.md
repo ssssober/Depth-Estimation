@@ -35,7 +35,8 @@
 15.**[StereoNet:Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction(ECCV2018)](https://www.researchgate.net/publication/326495585_StereoNet_Guided_Hierarchical_Refinement_for_Real-Time_Edge-Aware_Depth_Prediction)**  
 16.**[Pyramid Stereo Matching Network(cvpr2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_Pyramid_Stereo_Matching_CVPR_2018_paper.pdf)**  
 17.**[Zoom and Learn： Generalizing Deep Stereo Matching to Novel Domains(cvpr2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)**  
-18.**[Megadepth: Learning single-view depth prediction from internet photos(CVPR2018)](https://research.cs.cornell.edu/megadepth/paper.pdf)**
+18.**[Megadepth: Learning single-view depth prediction from internet photos(CVPR2018)](https://research.cs.cornell.edu/megadepth/paper.pdf)**  
+19.**[Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss(ECCV2018)](https://jianbojiao.com/pdfs/eccv_LDiD.pdf)**
 ## 2019  
 1.**[360SD-Net：360° Stereo Depth Estimation with Learnable Cost Volume(iccvw2019)](https://arxiv.org/abs/1911.04460?context=cs)**  
 2.**[AnyNet：Anytime Stereo Image Depth Estimation on Mobile Devices(ICRA2019)](https://mileyan.github.io/AnyNet/)**  
@@ -76,7 +77,17 @@
 37.**[Semantic Stereo Matching with Pyramid Cost Volumes(ICCV2019)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Semantic_Stereo_Matching_With_Pyramid_Cost_Volumes_ICCV_2019_paper.pdf)**  
 38.**[SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](ICRA2019)(https://arxiv.org/pdf/1810.01849.pdf)**  
 39.**[DSNet： Joint Learning for Scene Segmentation and Disparity Estimation(ICRA2019)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793573)**  
-40.**[Mannequin：Learning the Depths of Moving People by Watching Frozen People(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)**
+40.**[Mannequin：Learning the Depths of Moving People by Watching Frozen People(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)**  
+41. **[UnOS： Unified Unsupervised Optical-flow and Stereo-depth Estimation by Watching Videos(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_UnOS_Unified_Unsupervised_Optical-Flow_and_Stereo-Depth_Estimation_by_Watching_Videos_CVPR_2019_paper.pdf)**  
+42. **[Depth Estimation and Semantic Segmentation from a Single RGB Image Using a Hybrid Convolutional Neural Network(sensors2019)](https://imatge.upc.edu/web/sites/default/files/pub/aLin19.pdf)**  
+43. **[Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pilzer_Refine_and_Distill_Exploiting_Cycle-Inconsistency_and_Knowledge_Distillation_for_Unsupervised_CVPR_2019_paper.pdf)**  
+44. **[Depth from a polarisation + RGB stereo pair(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Depth_From_a_Polarisation__RGB_Stereo_Pair_CVPR_2019_paper.pdf)**  
+45. **[Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Geometry-Aware_Symmetric_Domain_Adaptation_for_Monocular_Depth_Estimation_CVPR_2019_paper.pdf)**  
+46. **[Learning monocular depth estimation infusing traditional stereo knowledge(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tosi_Learning_Monocular_Depth_Estimation_Infusing_Traditional_Stereo_Knowledge_CVPR_2019_paper.pdf)**  
+47. **[Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Student_Becoming_the_Master_Knowledge_Amalgamation_for_Joint_Scene_Parsing_CVPR_2019_paper.pdf)**  
+48. **[Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lai_Bridging_Stereo_Matching_and_Optical_Flow_via_Spatiotemporal_Correspondence_CVPR_2019_paper.pdf)**  
+49. **[Multi-Level Context Ultra-Aggregation for Stereo Matching(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)**
+
 ## 2020  
 1.**[AcfNet：Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching(AAAI2020)](https://arxiv.org/pdf/1909.03751.pdf)**  
 2.**[Du2Net： Learning Depth Estimation from Dual-Cameras and Dual-Pixels](https://deepai.org/publication/du-2net-learning-depth-estimation-from-dual-cameras-and-dual-pixels)**  
@@ -106,7 +117,13 @@
 26. **[Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance(ECCV2020)](https://arxiv.org/pdf/2007.06936.pdf)**  
 27. **[Consistent Video Depth Estimation(SIGGRAPH 2020)](https://arxiv.org/pdf/2004.15021.pdf)**  
 28. **[MiDaS-v2：Towards Robust Monocular Depth Estimation Mixing Datasets for Zero-Shot Cross-Dataset Transfer(TPAMI2020)](https://www.researchgate.net/publication/334191657_Towards_Robust_Monocular_Depth_Estimation_Mixing_Datasets_for_Zero-Shot_Cross-Dataset_Transfer)**  
-29. **[Flow2Stereo： Effective Self-Supervised Learning of Optical Flow and Stereo Matching(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Flow2Stereo_Effective_Self-Supervised_Learning_of_Optical_Flow_and_Stereo_Matching_CVPR_2020_paper.pdf)**
+29. **[Flow2Stereo： Effective Self-Supervised Learning of Optical Flow and Stereo Matching(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Flow2Stereo_Effective_Self-Supervised_Learning_of_Optical_Flow_and_Stereo_Matching_CVPR_2020_paper.pdf)**  
+30. **[BiFuse: Monocular 360◦ Depth Estimation via Bi-Projection Fusion(CVPR2020)](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.pdf)**  
+31. **[Focus on defocus: bridging the synthetic to real domain gap for depth estimation(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maximov_Focus_on_Defocus_Bridging_the_Synthetic_to_Real_Domain_Gap_CVPR_2020_paper.pdf)**  
+32. **[Bi3D: Stereo Depth Estimation via Binary Classifications(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Badki_Bi3D_Stereo_Depth_Estimation_via_Binary_Classifications_CVPR_2020_paper.pdf)**  
+33. **[Towards Better Generalization: Joint Depth-Pose Learning without PoseNet(CVPR2020)](https://github.com/B1ueber2y/TrianFlow)**  
+34. **[Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Domain_Decluttering_Simplifying_Images_to_Mitigate_Synthetic-Real_Domain_Shift_and_CVPR_2020_paper.pdf)**  
+35. **[Stereopagnosia: Fooling Stereo Networks with Adversarial Perturbations(arxiv2020)](https://arxiv.org/pdf/2009.10142v1.pdf)**
 
 ## Occlusion Handling  
 
