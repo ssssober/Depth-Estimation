@@ -124,7 +124,10 @@
 33. **[Towards Better Generalization: Joint Depth-Pose Learning without PoseNet(CVPR2020)](https://github.com/B1ueber2y/TrianFlow)**  
 34. **[Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation(CVPR2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Domain_Decluttering_Simplifying_Images_to_Mitigate_Synthetic-Real_Domain_Shift_and_CVPR_2020_paper.pdf)**  
 35. **[Stereopagnosia: Fooling Stereo Networks with Adversarial Perturbations(arxiv2020)](https://arxiv.org/pdf/2009.10142v1.pdf)**  
-36. **[NLCA-Net a non-local context attention network for stereo matching(ATSIPA2020)](https://www.researchgate.net/publication/342743150_NLCA-Net_a_non-local_context_attention_network_for_stereo_matching)**
+36. **[NLCA-Net a non-local context attention network for stereo matching(ATSIPA2020)](https://www.researchgate.net/publication/342743150_NLCA-Net_a_non-local_context_attention_network_for_stereo_matching)**  
+37. **[Adaptive confidence thresholding for semi-supervised monocular depth estimation(arxiv2020)](https://arxiv.org/pdf/2009.12840.pdf)**  
+38. **[Domain-invariant Stereo Matching Networks(ECCV2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf)**
+
 
 ## Occlusion Handling  
 
