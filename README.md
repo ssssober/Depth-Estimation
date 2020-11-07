@@ -126,7 +126,8 @@
 35. **[Stereopagnosia: Fooling Stereo Networks with Adversarial Perturbations(arxiv2020)](https://arxiv.org/pdf/2009.10142v1.pdf)**  
 36. **[NLCA-Net a non-local context attention network for stereo matching(ATSIPA2020)](https://www.researchgate.net/publication/342743150_NLCA-Net_a_non-local_context_attention_network_for_stereo_matching)**  
 37. **[Adaptive confidence thresholding for semi-supervised monocular depth estimation(arxiv2020)](https://arxiv.org/pdf/2009.12840.pdf)**  
-38. **[Domain-invariant Stereo Matching Networks(ECCV2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf)**
+38. **[Domain-invariant Stereo Matching Networks(ECCV2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf)**  
+39. **[Matching-space Stereo Networks for Cross-domain Generalization(3DV2020)](https://arxiv.org/abs/2010.07347)**
 
 
 ## Occlusion Handling  
