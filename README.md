@@ -86,7 +86,8 @@
 46. **[Learning monocular depth estimation infusing traditional stereo knowledge(cvpr2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tosi_Learning_Monocular_Depth_Estimation_Infusing_Traditional_Stereo_Knowledge_CVPR_2019_paper.pdf)**  
 47. **[Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Student_Becoming_the_Master_Knowledge_Amalgamation_for_Joint_Scene_Parsing_CVPR_2019_paper.pdf)**  
 48. **[Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lai_Bridging_Stereo_Matching_and_Optical_Flow_via_Spatiotemporal_Correspondence_CVPR_2019_paper.pdf)**  
-49. **[Multi-Level Context Ultra-Aggregation for Stereo Matching(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)**
+49. **[Multi-Level Context Ultra-Aggregation for Stereo Matching(CVPR2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)**  
+50. **[Autodispnet: Improving disparity estimation with automl(ICCV2019)](https://arxiv.org/abs/1905.07443?context=cs.LG)**
 
 ## 2020  
 1.**[AcfNet：Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching(AAAI2020)](https://arxiv.org/pdf/1909.03751.pdf)**  
@@ -127,7 +128,14 @@
 36. **[NLCA-Net a non-local context attention network for stereo matching(ATSIPA2020)](https://www.researchgate.net/publication/342743150_NLCA-Net_a_non-local_context_attention_network_for_stereo_matching)**  
 37. **[Adaptive confidence thresholding for semi-supervised monocular depth estimation(arxiv2020)](https://arxiv.org/pdf/2009.12840.pdf)**  
 38. **[Domain-invariant Stereo Matching Networks(ECCV2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf)**  
-39. **[Matching-space Stereo Networks for Cross-domain Generalization(3DV2020)](https://arxiv.org/abs/2010.07347)**
+39. **[Matching-space Stereo Networks for Cross-domain Generalization(3DV2020)](https://arxiv.org/abs/2010.07347)**  
+40. **[Hierarchical Neural Architecture Search for Deep Stereo Matching(NIPs2020)](https://arxiv.org/abs/2010.13501 )**  
+41. **[EDNet: Improved DispNet for Efficient Disparity Estimation(arxiv2020)](https://arxiv.org/abs/2010.13338 )**  
+42. **[Monocular Depth Estimation via Listwise Ranking using the Plackett-Luce Model(arxiv2020)](https://arxiv.org/abs/2010.13118)**  
+43. **[Geometry-based Occlusion-Aware Unsupervised Stereo Matching for Autonomous Driving(arxiv2020)](https://arxiv.org/abs/2010.10700)**  
+44. **[Relative Depth Estimation as a Ranking Problem(SIU2020)](https://arxiv.org/abs/2010.06944)**  
+45. **[Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion(arxiv2020)](https://arxiv.org/abs/2008.06630?context=cs.RO)**  
+46. **[Learning Monocular Dense Depth from Events(3DV2020)](https://arxiv.org/abs/2010.08350)**
 
 
 ## Occlusion Handling  
