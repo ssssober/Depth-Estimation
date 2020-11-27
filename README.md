@@ -135,7 +135,8 @@
 43. **[Geometry-based Occlusion-Aware Unsupervised Stereo Matching for Autonomous Driving(arxiv2020)](https://arxiv.org/abs/2010.10700)**  
 44. **[Relative Depth Estimation as a Ranking Problem(SIU2020)](https://arxiv.org/abs/2010.06944)**  
 45. **[Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion(arxiv2020)](https://arxiv.org/abs/2008.06630?context=cs.RO)**  
-46. **[Learning Monocular Dense Depth from Events(3DV2020)](https://arxiv.org/abs/2010.08350)**
+46. **[Learning Monocular Dense Depth from Events(3DV2020)](https://arxiv.org/abs/2010.08350)**  
+47. **[MobileDepth: Efficient Monocular Depth Prediction on Mobile Devices(arxiv2020)](https://arxiv.org/abs/2011.10189)**
 
 
 ## Occlusion Handling  
