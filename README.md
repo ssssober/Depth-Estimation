@@ -137,8 +137,10 @@
 45. **[Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion(arxiv2020)](https://arxiv.org/abs/2008.06630?context=cs.RO)**  
 46. **[Learning Monocular Dense Depth from Events(3DV2020)](https://arxiv.org/abs/2010.08350)**  
 47. **[MobileDepth: Efficient Monocular Depth Prediction on Mobile Devices(arxiv2020)](https://arxiv.org/abs/2011.10189)**  
-48. **[Polka Lines：Learning Structured Illumination and Reconstruction for Active Stereo（arxiv2020）](https://arxiv.org/abs/2011.13117?context=cs)**
+48. **[Polka Lines：Learning Structured Illumination and Reconstruction for Active Stereo（arxiv2020）](https://arxiv.org/abs/2011.13117?context=cs)**  
 
+## 2021  
+1. **[Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers(ICCV2021 oral)](https://github.com/mli0603/stereo-transformer)**  
 
 ## Occlusion Handling  
 
